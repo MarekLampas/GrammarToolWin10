@@ -1,0 +1,129 @@
+S First: (number) Follow: ($)
+Doesn't have FIRST-FIRST collision
+Doesn't have FIRST-FOLLOW collision
+E First: (plus, ε) Follow: ($)
+Doesn't have FIRST-FIRST collision
+Doesn't have FIRST-FOLLOW collision
+A First: (number) Follow: (plus, $)
+Doesn't have FIRST-FIRST collision
+Doesn't have FIRST-FOLLOW collision
+C First: (multiply, ε) Follow: (plus, $)
+Doesn't have FIRST-FIRST collision
+Doesn't have FIRST-FOLLOW collision
+B First: (number) Follow: (multiply, plus, $)
+Doesn't have FIRST-FIRST collision
+Doesn't have FIRST-FOLLOW collision
+S First: (number) Follow: ($)
+Doesn't have FIRST-FIRST collision
+Doesn't have FIRST-FOLLOW collision
+E First: (plus, ε) Follow: ($)
+Doesn't have FIRST-FIRST collision
+Doesn't have FIRST-FOLLOW collision
+A First: (number) Follow: (plus, $)
+Doesn't have FIRST-FIRST collision
+Doesn't have FIRST-FOLLOW collision
+C First: (multiply, ε) Follow: (plus, $)
+Doesn't have FIRST-FIRST collision
+Doesn't have FIRST-FOLLOW collision
+B First: (number) Follow: (multiply, plus, $)
+Doesn't have FIRST-FIRST collision
+Doesn't have FIRST-FOLLOW collision
+S First: (dataType) Follow: ($, identifier)
+Doesn't have FIRST-FIRST collision
+Doesn't have FIRST-FOLLOW collision
+B First: (number) Follow: (semicolon)
+Doesn't have FIRST-FIRST collision
+Doesn't have FIRST-FOLLOW collision
+C First: (plus, minus, multiply, ε) Follow: (semicolon)
+Doesn't have FIRST-FIRST collision
+Doesn't have FIRST-FOLLOW collision
+D First: (forLoop, ε) Follow: ($, identifier)
+Doesn't have FIRST-FIRST collision
+Doesn't have FIRST-FOLLOW collision
+E First: (dataType) Follow: (roundBracketClose)
+Doesn't have FIRST-FIRST collision
+Doesn't have FIRST-FOLLOW collision
+F First: (identifier) Follow: (identifier)
+Doesn't have FIRST-FIRST collision
+Has FIRST-FOLLOW collision
+G First: (moreThan, lessThan) Follow: (number, identifier)
+Doesn't have FIRST-FIRST collision
+Doesn't have FIRST-FOLLOW collision
+H First: (identifier) Follow: (roundBracketClose)
+Doesn't have FIRST-FIRST collision
+Doesn't have FIRST-FOLLOW collision
+J First: (decrement, increment) Follow: (roundBracketClose)
+Doesn't have FIRST-FIRST collision
+Doesn't have FIRST-FOLLOW collision
+K First: (curlyBracketOpen) Follow: ($, identifier)
+Doesn't have FIRST-FIRST collision
+Doesn't have FIRST-FOLLOW collision
+L First: (condition) Follow: (curlyBracketClose)
+Doesn't have FIRST-FIRST collision
+Doesn't have FIRST-FOLLOW collision
+M First: (identifier) Follow: (roundBracketClose)
+Doesn't have FIRST-FIRST collision
+Doesn't have FIRST-FOLLOW collision
+N First: (continueLoop, breakLoop) Follow: (curlyBracketClose)
+Doesn't have FIRST-FIRST collision
+Doesn't have FIRST-FOLLOW collision
+P First: (defaultCondition, ε) Follow: (curlyBracketClose)
+Doesn't have FIRST-FIRST collision
+Doesn't have FIRST-FOLLOW collision
+S First: (number) Follow: ($)
+Doesn't have FIRST-FIRST collision
+Doesn't have FIRST-FOLLOW collision
+E First: (plus, ε) Follow: ($)
+Doesn't have FIRST-FIRST collision
+Doesn't have FIRST-FOLLOW collision
+A First: (number) Follow: (plus, $)
+Doesn't have FIRST-FIRST collision
+Doesn't have FIRST-FOLLOW collision
+C First: (multiply, ε) Follow: (plus, $)
+Doesn't have FIRST-FIRST collision
+Doesn't have FIRST-FOLLOW collision
+B First: (number) Follow: (multiply, plus, $)
+Doesn't have FIRST-FIRST collision
+Doesn't have FIRST-FOLLOW collision
+S First: (identifier) Follow: ($)
+Doesn't have FIRST-FIRST collision
+Doesn't have FIRST-FOLLOW collision
+A First: (squareBracketOpen) Follow: ($)
+Doesn't have FIRST-FIRST collision
+Doesn't have FIRST-FOLLOW collision
+B First: (stringValue, ε) Follow: (squareBracketClose)
+Doesn't have FIRST-FIRST collision
+Doesn't have FIRST-FOLLOW collision
+C First: (comma, ε) Follow: (squareBracketClose)
+Doesn't have FIRST-FIRST collision
+Doesn't have FIRST-FOLLOW collision
+D First: (forLoop) Follow: ($)
+Doesn't have FIRST-FIRST collision
+Doesn't have FIRST-FOLLOW collision
+E First: (print) Follow: ($)
+Doesn't have FIRST-FIRST collision
+Doesn't have FIRST-FOLLOW collision
+F First: (identifier, stringValue) Follow: (roundBracketClose)
+Doesn't have FIRST-FIRST collision
+Doesn't have FIRST-FOLLOW collision
+S First: (identifier) Follow: ($)
+Doesn't have FIRST-FIRST collision
+Doesn't have FIRST-FOLLOW collision
+A First: (squareBracketOpen) Follow: ($)
+Doesn't have FIRST-FIRST collision
+Doesn't have FIRST-FOLLOW collision
+B First: (stringValue, ε) Follow: (squareBracketClose)
+Doesn't have FIRST-FIRST collision
+Doesn't have FIRST-FOLLOW collision
+C First: (comma, ε) Follow: (squareBracketClose)
+Doesn't have FIRST-FIRST collision
+Doesn't have FIRST-FOLLOW collision
+D First: (forLoop) Follow: ($)
+Doesn't have FIRST-FIRST collision
+Doesn't have FIRST-FOLLOW collision
+E First: (print) Follow: ($)
+Doesn't have FIRST-FIRST collision
+Doesn't have FIRST-FOLLOW collision
+F First: (identifier, stringValue) Follow: (roundBracketClose)
+Doesn't have FIRST-FIRST collision
+Doesn't have FIRST-FOLLOW collision

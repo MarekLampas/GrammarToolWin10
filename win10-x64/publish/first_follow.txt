@@ -1,0 +1,15 @@
+S First: (Number) Follow: ($)
+Doesn't have FIRST-FIRST collision
+Doesn't have FIRST-FOLLOW collision
+E First: (Plus, @) Follow: ($)
+Doesn't have FIRST-FIRST collision
+Doesn't have FIRST-FOLLOW collision
+A First: (Number) Follow: (Plus, $)
+Doesn't have FIRST-FIRST collision
+Doesn't have FIRST-FOLLOW collision
+C First: (Multiply, @) Follow: (Plus, $)
+Doesn't have FIRST-FIRST collision
+Doesn't have FIRST-FOLLOW collision
+B First: (Number) Follow: (Multiply, Plus, $)
+Doesn't have FIRST-FIRST collision
+Doesn't have FIRST-FOLLOW collision
